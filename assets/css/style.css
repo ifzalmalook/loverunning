@@ -316,13 +316,15 @@ margin: 5px 0;}
         margin: 0 0.5rem;
     }
 
-    #signup {background-position: 50%;
+    #signup {background-position: center;
         position: relative;
-        padding: 150px 0 0 10%;
+        
 
     #signup-form {
         position:absolute;
         max-width: 400px;
+        left: 10%;
+        top: 150px;
     }
 
     .text-input:hover {
